@@ -1,8 +1,8 @@
 # Informacijos Kodavimas (.NET 6.0)
-Programa, kuri uşkoduoja duomenø bazëje pasirinkto árağo stulpelio laukelá ir vëliau já iğsaugoti.
-Galima pasirinkti tarp AES ir 3DES koduoèiø. Galima prijungti tik su MS-SQL duomenø bazæ.
+Programa, kuri uÅ¾koduoja/atkoduoja duomenÅ³ bazÄ—je pasirinkto Ä¯raÅ¡o stulpelio laukelÄ¯ ir vÄ—liau jÄ¯ iÅ¡saugoti.
+Galima pasirinkti tarp AES ir 3DES koduoÄiÅ³. Galima prijungti tik su MS-SQL duomenÅ³ baze.
 ## Funkcijos
-* Interaktyvus terminalas. Meniø galima narğyti su rodyklëmis
-* Palaiko AES ir 3DES koduotes
-* Duomenø bazës prisijungimas per terminalà
-* Klaidø tikrinimas
+* Interaktyvus terminalas. MeniÅ³ galima narÅ¡yti su rodyklÄ—mis.
+* Palaiko AES ir 3DES koduotes.
+* DuomenÅ³ bazÄ—s prisijungimas per terminalÄ….
+* KlaidÅ³ tikrinimas.
